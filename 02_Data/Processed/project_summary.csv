@@ -1,0 +1,11 @@
+metric,value
+Input file,indian-banking-transactions.csv
+Rows after cleaning,0
+Columns,0
+Duplicates removed,0
+Missing values before,0
+Missing values after,0
+Amount column detected,None
+Date column detected,None
+Category column detected,None
+Customer column detected,None

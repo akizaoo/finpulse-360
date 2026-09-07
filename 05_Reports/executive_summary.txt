@@ -1,0 +1,28 @@
+FINPULSE 360 - EXECUTIVE SUMMARY
+============================================================
+
+FinPulse 360 is an end-to-end financial data analytics project.
+
+DATASET OVERVIEW
+Rows analyzed: 0
+Columns analyzed: 0
+Duplicate rows removed: 0
+Missing values before cleaning: 0
+Missing values after cleaning: 0
+
+ANALYTICAL MODULES COMPLETED
+1. Data inspection
+2. Data cleaning
+3. Missing-value handling
+4. Duplicate removal
+5. Statistical analysis
+6. Correlation analysis
+7. Transaction amount analysis
+8. Category analysis
+9. Customer analysis
+10. Merchant analysis
+11. Location analysis
+12. Monthly analysis
+13. High-value transaction analysis
+14. Financial risk flags
+15. Power BI dataset preparation

@@ -1,0 +1,11 @@
+FINPULSE 360 - BUSINESS RECOMMENDATIONS
+============================================================
+
+1. Monitor high-value transactions for enhanced review.
+2. Use transaction-category trends to understand customer activity.
+3. Track customer transaction frequency to identify important customer segments.
+4. Monitor merchant and location performance where available.
+5. Use monthly transaction trends for operational planning.
+6. Use the Power BI dataset to create an interactive management dashboard.
+7. Combine transaction volume and transaction value when evaluating business performance.
+8. Investigate unusual or rare transaction patterns before making financial decisions.
